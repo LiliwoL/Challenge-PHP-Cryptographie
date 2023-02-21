@@ -6,8 +6,6 @@ include_once ('inc/hash/md5.php');
 include_once ('inc/hash/sha1.php');
 include_once ('inc/detect.php');
 
-
-
 // Main
 $plain_text = "Texte à chiffrer";
 $shift = 3;
